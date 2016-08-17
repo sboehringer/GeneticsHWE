@@ -1,0 +1,12 @@
+Package: GeneticsHWE
+Type: Package
+Title: Hardy-Weinberg related analyses
+Version: 1.0
+Date: 2016-08-17
+Author: Stefan Boehringer
+Maintainer: Stefan Boehringer <r-packages@s-boehringer.org>
+Description: This package implements HWE goodness-of-fit tests, HWE aware association testing.
+License: LGPL 2.0
+Imports: methods, Rcpp (>= 0.11.1)
+LinkingTo: Rcpp
+#RcppModules: Parametrizer
